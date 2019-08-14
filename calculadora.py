@@ -2,8 +2,6 @@
 #qpy:2
 #qpy:kivy
 
-# input de numero negativo, diminuir/aumentar fonte sem perder dados
-
 from kivy.app import App
 from kivy.uix.screenmanager import Screen, ScreenManager, NoTransition
 from kivy.effects.scroll import ScrollEffect
